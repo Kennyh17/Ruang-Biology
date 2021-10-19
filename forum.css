@@ -1,0 +1,77 @@
+body{
+    background-color: rgba(27, 189, 181, 1);;
+    width: 900px;
+    height: 1000px;
+    position: center;
+    margin-left :500px;
+    margin-right: 500px;
+
+}
+.header{
+    border-bottom: 0.5px solid black;
+    display: flex;
+    justify-content:space-around;
+    padding-top: 10px;
+}
+.header a{
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+.content{
+    margin-top: 10px;
+}
+
+.content a{
+    margin-top:  10px;;
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    border:1px solid black;
+    background-color:lightskyblue;
+    margin-left: 600px;
+    padding: 2px; 
+}
+.forum{
+    margin-top: 10px;
+    border: 1px solid black;
+    background-color: lightgrey;
+
+}
+
+
+
+.announce{
+    margin-top: 10px;
+    display: flex;
+}
+
+.announce button{
+   margin-left: 600px;
+}
+.image img{
+    padding: 10px;
+    height: 186px;
+    width: 157px;
+}
+.profile{
+    margin-bottom: 5px;
+}
+.profile h2{
+  
+    color :black;
+}
+.profile p{
+    margin-top: 10px;
+    font-size: 30px;
+    color: black;
+}
+
+.profile button{
+    background-color: lightskyblue;
+}

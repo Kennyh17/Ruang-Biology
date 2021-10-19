@@ -1,0 +1,96 @@
+body{
+    background-color:darkturquoise;
+    width: 900px;
+    height: 1000px;
+    position: center;
+    margin-left :500px;
+    margin-right: 500px;
+
+}
+.header img{
+    width: 200px;
+    height: 200px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.content{
+    background :rgba(255,255,255,.2) ;
+    position: relative;
+    margin: auto;
+    width: 500px;
+    height: 350px;
+    margin-top: 30px;
+}
+form{
+    padding: 50px;
+    color:black;
+    font-size: 20px;
+}
+form button{
+    background-color: crimson;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+
+#Username{
+    position: relative;
+    padding: 0 22px;
+    left: 40px;
+    top: -5px;
+    line-height: 0px;
+    width: 200px;
+}
+#Name{
+    position: relative;
+    padding: 0 22px;
+    left: 78px;
+    top: -5px;
+    line-height: 0px;
+    width: 200px;
+}
+#Address{
+    position: relative;
+    padding: 0 22px;
+    left: 58px;
+    top: -5px;
+    line-height: 0px;
+    width: 200px;
+}
+#Email{
+    position: relative;
+    padding: 0 22px;
+    left: 75px;
+    top: -5px;
+    line-height: 0px;
+    width: 200px;
+}
+#Phone{
+    position: relative;
+    padding: 0 22px;
+    left: 72px;
+    top: -5px;
+    line-height: 0px;
+    width: 200px;
+}
+#DOB{
+    position: relative;
+    padding: 0 22px;
+    left: 2px;
+    top: -5px;
+    line-height: 10px;
+    width: 200px;
+}
+#password{
+    position: relative;
+    padding: 0 22px;
+    left: 60px;
+    top: -5px;
+    line-height: 0px;
+    width: 200px;
+}
+.content a{
+    text-decoration: none;
+    color:black;
+    font-size: 14px;
+}

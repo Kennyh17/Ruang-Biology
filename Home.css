@@ -1,0 +1,64 @@
+body{
+    background-color: rgba(27, 189, 181, 1);;
+    width: 900px;
+    height: 1000px;
+    position: center;
+    margin-left :500px;
+    margin-right: 500px;
+
+}
+.header{
+    border-bottom: 0.5px solid black;
+    display: flex;
+    justify-content:space-around;
+    padding-top: 10px;
+}
+.header a{
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;  
+}
+
+.content a{
+    margin-top:  10px;;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    
+    
+}
+.funfact{
+    border: 0.2px solid black;
+    padding-top: 5px;
+    background-color: rgba(255,255,255,.2);
+    margin-top: 10px;
+    width: 900px;
+    height: 800px;
+}
+.fact{
+    display: flex;
+}
+.image img{
+    padding: 10px;
+    width: 350px;
+    height: 230px;
+}
+.story h2{
+    margin-top: 25px;
+    text-align: center;
+    color: black;
+}
+.story p{
+    margin-top: 10px;
+    font-size: 15px;
+    color: black;
+}

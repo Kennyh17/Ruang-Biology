@@ -1,0 +1,61 @@
+body{
+    background-color: rgba(27, 189, 181, 1);;
+    width: 900px;
+    height: 1000px;
+    position: center;
+    margin-left :500px;
+    margin-right: 500px;
+
+}
+.header{
+    border-bottom: 0.5px solid black;
+    display: flex;
+    justify-content:space-around;
+    padding-top: 10px;
+}
+.header a{
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;  
+}
+
+.content a{
+    margin-top:  10px;;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+   
+    
+}
+.announcement{
+    margin-top: 10px;
+    width: 900px;
+    height: 1000px;
+}
+.announce{
+    display: flex;
+}
+.image img{
+    padding: 10px;
+    width: 350px;
+    height: 530px;
+}
+.seminar h2{
+    text-align: center;
+    color :black;
+}
+.seminar p{
+    padding-left: 10px;
+    margin-top: 10px;
+    font-size: 30px;
+    color: black;
+}

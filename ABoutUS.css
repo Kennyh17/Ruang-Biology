@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(27, 189, 181, 1);;
+    width: 900px;
+    height: 1000px;
+    position: center;
+    margin-left :500px;
+    margin-right: 500px;
+
+}
+.header{
+    border-bottom: 0.2px solid black;
+    display: flex;
+    justify-content:space-around;
+    padding-top: -5px;
+}
+.header a{
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+.content{
+    text-align: center;
+}
+.content p {
+    color: white;
+    font-size: 25px;
+}
+.content img{
+    width: 200px;
+    height: 200px;
+}
